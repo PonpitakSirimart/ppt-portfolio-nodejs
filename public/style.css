@@ -138,3 +138,14 @@ body {
     transform: translateY(5px);
     box-shadow: 0 5px 10px #FE6D79;
 }
+.card {
+    border: none;
+    border-radius: 5px;
+}
+.card img {
+    border-radius: 5px 5px 0 0;
+}
+.card-text {
+    text-align: center;
+    padding: 0 10px;
+}
